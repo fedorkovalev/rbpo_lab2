@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <cmath>
 double x, result;
 void f()
 {
